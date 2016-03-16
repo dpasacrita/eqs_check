@@ -64,7 +64,7 @@ if __name__ == "__main__":
     CRITICAL = 2
     UNKNOWN = 3
     # EQS Values
-    eqs_url = 'http://172.16.10.29:3299/'
+    eqs_url = 'http://xxx.xxx.xxx.xxx/'
     headers = {
         "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5)",
         "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
