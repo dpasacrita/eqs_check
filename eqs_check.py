@@ -4,7 +4,7 @@ import requests
 import sys
 import re
 __author__ = 'Daniel Pasacrita'
-__date__ = '3/11/16'
+__date__ = '3/16/16'
 
 
 def scrape(url, htmlheaders):
